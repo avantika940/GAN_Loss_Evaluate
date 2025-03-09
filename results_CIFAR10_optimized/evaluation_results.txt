@@ -1,0 +1,4 @@
+=== Evaluation Results ===
+BCE Loss - IS: 6.50 ± 0.20, FID: 26.37
+LS Loss - IS: 6.58 ± 0.20, FID: 26.10
+Wasserstein Loss - IS: 6.88 ± 0.20, FID: 22.36
